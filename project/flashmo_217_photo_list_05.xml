@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+
+	<photo>
+		<filename>leaves_400x260_01.jpg</filename>
+		<title>Extra - Title 01</title>
+		<description><![CDATA[<span class="subtitle">Integer pellentesque dignissim diam</span>
+<p align="justify">Fusce non lacus et lorem ornare interdum. Nunc eget urna. <span class="highlight">Curabitur euismod scelerisque lacus.</span> Mauris vestibulum felis eget tortor. Praesent mattis varius quam. Vestibulum ullamcorper ipsum nec augue. </p>
+<p align="justify">Nam pulvinar lobortis nunc, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc.</p>
+<p align="justify">Duis metus leo, consectetur quis sagittis et, luctus a ligula. <span class="highlight">Maecenas posuere</span> feugiat risus, non sodales mi egestas eget. Duis vehicula, tellus sit amet tincidunt pulvinar, ipsum magna sagittis quam, quis aliquam lorem odio quis augue.</p>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_06.jpg</filename>
+		<title>Extra - Title 02</title>
+		<description><![CDATA[<span class="subtitle">Suspendisse hendrerit turpis id augue</span>
+<p align="justify">Sed a eros. Phasellus cursus lobortis arcu. Donec scelerisque. Integer ultrices. Donec hendrerit. Maecenas nisl ante, mollis et, tincidunt vitae, feugiat sit amet, mi. Vestibulum urna. Vivamus eu tortor. <a href="http://www.flashmo.com">Flash Templates</a></p>
+<p align="justify">Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst.</p>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>leaves_400x260_02.jpg</filename>
+		<title>Extra - Title 03</title>
+		<description><![CDATA[<span class="subtitle">Quisque ornare pulvinar lorem</span>
+<p align="justify">Nulla sed leo sed sapien sagittis aliquet. Vivamus vestibulum condimentum massa. Phasellus id purus. Donec mattis egestas sem. Sed pretium, neque hendrerit rhoncus accumsan, nibh tellus pharetra neque, quis rutrum elit justo vitae sapien.</p>
+<p align="justify">Etiam sed lectus sed metus posuere ultricies. Sed iaculis adipiscing pharetra. Phasellus sed eros ut nisl consectetur faucibus ac at nunc. Sed aliquet volutpat pharetra. Sed tempor scelerisque magna non feugiat. Suspendisse a lorem mauris, sit amet commodo tortor. <span class="highlight">Duis euismod leo in velit facilisis interdum.</span></p>
+<span class="note">Notes: Vestibulum ultrices. Pellentesque tempus sapien nec sem commodo ullamcorper. Aenean neque. Cras feugiat. In ut ante.</span>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_07.jpg</filename>
+		<title>Extra - Title 04</title>
+		<description><![CDATA[<span class="subtitle">Vivamus vulputate felis</span>
+<p align="justify">Proin dui mauris, tempor eget, pulvinar sed, pretium sit amet, dui. Proin vulputate justo et quam. Cras nisl eros, elementum eu, iaculis vitae, viverra ut, ligula. <span class="highlight">Pellentesque metus.</span> Duis dolor.</p>
+<p align="justify">Etiam luctus. Quisque facilisis suscipit elit. <a href="http://www.flashmo.com">Donec a purus vel purus</a> sollicitudin placerat. Nunc at sem. Sed pellentesque placerat augue. Mauris pede nisl, placerat nec, lobortis vitae, dictum sed, neque.</p>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>leaves_400x260_03.jpg</filename>
+		<title>Extra - Title 05</title>
+		<description><![CDATA[<span class="subtitle">Integer pellentesque dignissim diam</span>
+<p align="justify">This text is dynamically loaded from <span class="highlight">the external XML file</span>. Also, the text is formatted by <span class="highlight">the external CSS file</span>. This flash source file is available to download for free of charge from <a href="http://www.flashmo.com">flashmo.com</a>. You may download, edit and apply the source file for your websites.</p>
+<p align="justify">Nunc aliquam, <a href="http://www.flashmo.com">dolor vitae sollicitudin lacinia</a>, nibh orci sagittis diam, dignissim sodales dui erat nec eros. Fusce quis enim. Aenean eleifend, neque hendrerit elementum sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus.</p>
+<span class="subtitle">Curabitur euismod scelerisque lacus</span>
+<p align="justify">Proin dui mauris, tempor eget, pulvinar sed, pretium sit amet, dui. <a href="http://www.flashmo.com">Proin vulputate justo</a> et quam. Cras nisl eros, elementum eu, iaculis vitae, viverra ut, ligula. Pellentesque metus. Duis dolor.</p>
+<span class="note">Notes: Aliquam lacus turpis, dapibus eget, tincidunt eu, lobortis et, magna.</span>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_08.jpg</filename>
+		<title>Extra - Title 06</title>
+		<description><![CDATA[<span class="subtitle">Suspendisse hendrerit turpis id augue</span>
+<p align="justify">Cras condimentum interdum felis, id tristique augue feugiat et. <a href="http://www.flashmo.com">Nam pulvinar lobortis nunc</a>, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc.</p>
+<p align="justify">Sed nec felis. Vivamus laoreet pharetra eros. In quam nibh, placerat ac, porta ac, molestie non, purus. Curabitur sem ante, condimentum non, cursus quis, eleifend non, libero. Nunc a nulla. <span class="highlight">Suspendisse vitae orci a ligula egestas bibendum.</span></p>
+<span class="note">Notes: Vestibulum ultrices. Pellentesque tempus sapien nec sem commodo ullamcorper. Aenean neque. Cras feugiat. In ut ante.</span>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>leaves_400x260_04.jpg</filename>
+		<title>Extra - Title 07</title>
+		<description><![CDATA[<span class="subtitle">Quisque ornare pulvinar lorem</span>
+<p align="justify"><a href="http://www.flashmo.com">Free Flash Templates</a> - Phasellus ultrices justo non nibh. Sed a eros. Phasellus cursus lobortis arcu. Donec scelerisque. Integer ultrices. Donec hendrerit.</p>
+<p align="justify">Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. <span class="highlight">Curabitur euismod scelerisque lacus.</span> Cras pretium sem sed odio. Vestibulum nisl mauris, malesuada nec, dictum in, molestie in, pede.</p>]]></description>
+	</photo>
+
+	<photo>
+		<filename>animals_400x260_09.jpg</filename>
+		<title>Extra - Title 08</title>
+		<description><![CDATA[<span class="subtitle">Quisque ornare pulvinar lorem</span>
+<p align="justify">Phasellus id purus. Donec mattis egestas sem. Sed pretium, neque hendrerit rhoncus accumsan, nibh tellus pharetra neque, quis rutrum elit justo vitae sapien.</p>
+<p align="justify">Sed nec felis. Vivamus laoreet pharetra eros. In quam nibh, placerat ac, porta ac, molestie non, purus. Curabitur sem ante, condimentum non, cursus quis, eleifend non, libero. Nunc a nulla. <span class="highlight">Suspendisse vitae orci a ligula egestas bibendum.</span></p>]]></description>
+	</photo>
+	
+</photos>

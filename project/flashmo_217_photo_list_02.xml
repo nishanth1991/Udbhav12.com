@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+
+	<photo>
+		<filename>flowers_400x260_01.jpg</filename>
+		<title>Flowers - Title 01</title>
+		<description><![CDATA[<p align="justify"><a href="http://www.flashmo.com">Free Flash Templates</a> - Sed pretium, neque hendrerit rhoncus accumsan, nibh tellus pharetra neque, quis rutrum elit justo vitae sapien.</p>
+<p align="justify">In quam nibh, placerat ac, porta ac, molestie non, purus. Curabitur sem ante, condimentum non, cursus quis, eleifend non, libero. <span class="highlight">Suspendisse vitae orci a ligula egestas bibendum.</span></p>
+<span class="note">Notes: Vestibulum ultrices. Aenean neque. Cras feugiat.</span>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>flowers_400x260_02.jpg</filename>
+		<title>Flowers - Title 02</title>
+		<description><![CDATA[<span class="subtitle">Vivamus vulputate felis</span>
+<p align="justify">Proin dui mauris, tempor eget, pulvinar sed, pretium sit amet, dui. Proin vulputate justo et quam. Cras nisl eros, elementum eu, iaculis vitae, viverra ut, ligula. <span class="highlight">Pellentesque metus.</span> Duis dolor.</p>
+<p align="justify">Quisque facilisis suscipit elit. <a href="http://www.flashmo.com/donate">Donec a purus vel purus</a> sollicitudin placerat. Nunc at sem. Sed pellentesque placerat augue. Mauris pede nisl, placerat nec, lobortis vitae, dictum sed, neque.</p>
+]]></description>
+	</photo>
+	
+	<photo>
+		<filename>flowers_400x260_03.jpg</filename>
+		<title>Flowers - Title 03</title>
+		<description><![CDATA[<span class="subtitle">Integer pellentesque dignissim diam</span>
+<p align="justify"><b>Vestibulum sed leo justo.</b> Maecenas cursus velit nec arcu ultrices egestas. <a href="http://www.flashmo.com">Vestibulum fermentum</a> quam sed diam congue in tempus nunc porttitor. Cras et lectus erat. Praesent posuere dolor tincidunt massa condimentum et volutpat orci pharetra. <span class="highlight">Suspendisse vitae orci a ligula egestas bibendum.</span></p>
+<p>In velit urna, <u>convallis id</u>, pharetra in, iaculis sit amet, mi. Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. Etiam et neque. Donec dapibus viverra est.</p>
+<span class="note">Notes: Pellentesque tempus sapien nec sem commodo ullamcorper. Aenean neque. Cras feugiat.</span>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>flowers_400x260_04.jpg</filename>
+		<title>Flowers - Title 04</title>
+		<description><![CDATA[<p align="justify"><a href="http://www.flashmo.com/donate">Fusce non lacus et</a> lorem ornare interdum. Nunc eget urna. Mauris vestibulum felis eget tortor. Praesent mattis varius quam. Vestibulum ullamcorper ipsum nec augue. </p>
+<p align="justify">Donec hendrerit. Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. <span class="highlight">Curabitur euismod scelerisque lacus.</span> Cras pretium sem sed odio. Vestibulum nisl mauris, malesuada nec, dictum in, molestie in, pede.</p>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>flowers_400x260_05.jpg</filename>
+		<title>Flowers - Title 05</title>
+		<description><![CDATA[<span class="subtitle">Integer pellentesque dignissim diam</span>
+<p align="justify">Fusce non lacus et lorem ornare interdum. Nunc eget urna. Mauris vestibulum felis eget tortor. Praesent mattis varius quam. <a href="http://www.flashmo.com">Vestibulum ullamcorper</a> ipsum nec augue.</p>
+<p align="justify">Proin dui mauris, tempor eget, pulvinar sed, pretium sit amet, dui. Proin vulputate justo et quam. Cras nisl eros, elementum eu, iaculis vitae, viverra ut, ligula. <span class="highlight">Pellentesque metus.</span> Duis dolor.</p>
+<p align="justify">Integer ultrices. Donec hendrerit. Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. <span class="highlight">Curabitur euismod scelerisque lacus.</span> Vestibulum nisl mauris, malesuada nec, dictum in, molestie in, pede.</p>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>flowers_400x260_06.jpg</filename>
+		<title>Flowers - Title 06</title>
+		<description><![CDATA[<span class="subtitle">Integer pellentesque dignissim diam</span>
+<p align="justify">This text is dynamically loaded from <span class="highlight">the external XML file</span>. Also, the text is formatted by <span class="highlight">the external CSS file</span>. This flash source file is available to download for free of charge from <a href="http://www.flashmo.com">flashmo.com</a>. You may download, edit and apply the source file for your websites.</p>
+<p align="justify">Nunc aliquam, <a href="http://www.flashmo.com">dolor vitae sollicitudin lacinia</a>, nibh orci sagittis diam, dignissim sodales dui erat nec eros. Fusce quis enim. Aenean eleifend, neque hendrerit elementum sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus.</p>
+<span class="subtitle">Curabitur euismod scelerisque lacus</span>
+<p align="justify">Proin dui mauris, tempor eget, pulvinar sed, pretium sit amet, dui. <a href="http://www.flashmo.com">Proin vulputate justo</a> et quam. Cras nisl eros, elementum eu, iaculis vitae, viverra ut, ligula. Pellentesque metus. Duis dolor.</p>
+<span class="note">Notes: Aliquam lacus turpis, dapibus eget, tincidunt eu, lobortis et, magna.</span>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>flowers_400x260_02.jpg</filename>
+		<title>Flowers - Title 07</title>
+		<description><![CDATA[<p align="justify">Aenean eleifend, neque hendrerit elementum sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus. Proin dui mauris, tempor eget, pulvinar sed, pretium sit amet, dui. Proin vulputate justo et quam. Cras nisl eros, elementum eu, iaculis vitae, viverra ut, ligula. <span class="highlight">Pellentesque metus.</span></p>
+<p align="justify">Quisque facilisis suscipit elit. <a href="http://www.flashmo.com">Donec a purus vel purus</a> sollicitudin placerat. Nunc at sem. Sed pellentesque placerat augue. Mauris pede nisl, placerat nec, lobortis vitae, dictum sed, neque.</p>
+]]></description>
+	</photo>
+	
+	<photo>
+		<filename>flowers_400x260_03.jpg</filename>
+		<title>Flowers - Title 08</title>
+		<description><![CDATA[<span class="subtitle">Integer pellentesque dignissim diam</span>
+<p align="justify">Fusce non lacus et lorem ornare interdum. Nunc eget urna. <span class="highlight">Curabitur euismod scelerisque lacus.</span> Mauris vestibulum felis eget tortor. Praesent mattis varius quam. Vestibulum ullamcorper ipsum nec augue.</p>
+<p align="justify"><a href="http://www.flashmo.com/donate">Nam pulvinar lobortis nunc</a>, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor.</p>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>flowers_400x260_04.jpg</filename>
+		<title>Flowers - Title 09</title>
+		<description><![CDATA[<span class="subtitle">Vivamus vulputate felis</span>
+<p align="justify">Fusce quis enim. Aenean eleifend, neque hendrerit elementum sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus. Proin dui mauris, tempor eget, pulvinar sed, pretium sit amet, dui. Proin vulputate justo et quam. Cras nisl eros, elementum eu, iaculis vitae, viverra ut, ligula. <span class="highlight">Pellentesque metus.</span> Duis dolor.</p>
+<p align="justify">Vestibulum fermentum quam sed diam congue in tempus nunc porttitor. Cras et lectus erat. Praesent posuere dolor tincidunt massa condimentum et volutpat orci pharetra. Etiam luctus. Quisque facilisis suscipit elit.</p>
+<p align="justify"><a href="http://www.flashmo.com">Donec a purus vel purus</a> sollicitudin placerat. Nunc at sem. Sed pellentesque placerat augue. Mauris pede nisl, placerat nec, lobortis vitae, dictum sed, neque.</p>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>flowers_400x260_05.jpg</filename>
+		<title>Flowers - Title 10</title>
+		<description><![CDATA[<p align="justify">Maecenas nisl ante, mollis et, tincidunt vitae, feugiat sit amet, mi. Vestibulum urna. Vivamus eu tortor. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. <a href="http://www.flashmo.com">Free Flash Templates</a></p>
+<p align="justify">Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. <span class="highlight">Curabitur euismod scelerisque lacus.</span> Cras pretium sem sed odio. Vestibulum nisl mauris, malesuada nec, dictum in, molestie in, pede.</p>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>flowers_400x260_06.jpg</filename>
+		<title>Flowers - Title 11</title>
+		<description><![CDATA[<span class="subtitle">Vivamus vulputate felis</span>
+<p align="justify">Fusce quis enim. Aenean eleifend, neque hendrerit elementum sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus. Proin dui mauris, tempor eget, pulvinar sed, pretium sit amet, dui. Proin vulputate justo et quam. Cras nisl eros, elementum eu, iaculis vitae, viverra ut, ligula.</p>
+<p align="justify"><span class="highlight">Pellentesque metus.</span> Duis dolor. Vestibulum mauris urna, ultricies vitae blandit non, pellentesque id lectus. Maecenas sem velit, placerat quis ornare in, venenatis sed velit. Aliquam gravida diam ac felis viverra eleifend.</p>
+<p align="justify">Etiam luctus. Quisque facilisis suscipit elit. <a href="http://www.flashmo.com">Donec a purus vel purus</a> sollicitudin placerat. Nunc at sem. Sed pellentesque placerat augue. Mauris pede nisl, placerat nec, lobortis vitae, dictum sed, neque. Curabitur sed quam tortor, a consequat est. Suspendisse potenti. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>]]></description>
+	</photo>
+	
+</photos>

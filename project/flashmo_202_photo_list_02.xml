@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+
+	<photo>
+		<thumbnail>gallery_1 (Copy).jpg</thumbnail>
+		<filename>gallery_1.jpg</filename>
+		<title>Apple Orange 01</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com" target="_parent">Lorem ipsum dolor sit amet</a>, consectetur adipiscing elit. <span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor.</p><p><span class="subtitle">Pellentesque elementum enim a augue</span></p><p>Donec in nisi. Etiam sit amet turpis. Duis nulla diam, posuere ac, varius id, ullamcorper sit amet, libero.</p><p><span class="note">This text is dynamically loaded from the external XML file. This textfield supports HTML and CSS.</span></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_2 (Copy).jpg</thumbnail>
+		<filename>gallery_2.jpg</filename>
+		<title>Apple Orange 02</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com/donate" target="_blank">Fusce quis diam sit</a> amet tortor luctus pellentesque. Donec accumsan urna non elit tristique mattis. <b>Vivamus fermentum</b> orci viverra nisl. In nec magna id ipsum aliquam dictum. <span class="note">Donec euismod enim et risus.</span></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_3 (Copy).jpg</thumbnail>
+		<filename>gallery_3.jpg</filename>
+		<title>Apple Orange 03</title>
+		<description><![CDATA[<p>In velit urna, <u>convallis id</u>, pharetra in, iaculis sit amet, mi. Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. Etiam et neque. Donec dapibus viverra est. <a href="http://www.koflash.com" target="_blank">Flash Web Gallery</a></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_4 (Copy).jpg</thumbnail>
+		<filename>gallery_4.jpg</filename>
+		<title>Apple Orange 04</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com/store" target="_blank">Mauris vestibulum felis</a> eget tortor. Praesent mattis varius quam. Vestibulum ullamcorper ipsum nec augue. Vestibulum auctor odio eget ante.</p> <p>Nunc commodo, magna pharetra semper vehicula, dui ligula feugiat elit, et euismod nunc orci ut libero. Etiam sodales massa vel metus. <span class="note">Mauris et elit quis mauris aliquet luctus.</span></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_5 (Copy).jpg</thumbnail>
+		<filename>gallery_5.jpg</filename>
+		<title>Apple Orange 05</title>
+		<description><![CDATA[<p>Nunc aliquam, dolor vitae sollicitudin lacinia, nibh orci sagittis diam, dignissim sodales dui erat nec eros. Fusce quis enim. <a href="http://www.flashmo.com" target="_parent">Aenean eleifend</a>, neque hendrerit elementum sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus.</p>]]></description>
+	</photo>
+
+
+
+	<photo>
+		<thumbnail>gallery_6 (Copy).jpg</thumbnail>
+		<filename>gallery_6.jpg</filename>
+		<title>Apple Orange 06</title>
+		<description><![CDATA[<p>In velit urna, convallis id, pharetra in, iaculis sit amet, mi. Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. Etiam et neque. <a href="http://www.flashmo.com" target="_parent">Donec dapibus</a> viverra est.</p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_7 (Copy).jpg</thumbnail>
+		<filename>gallery_7.jpg</filename>
+		<title>Apple Orange 07</title>
+		<description><![CDATA[<p><a href="http://www.koflash.com" target="_blank">Flash Web Gallery</a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. <span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor. <a href="http://www.flashmo.com" target="_parent">Integer vel sapien quis</a> risus egestas suscipit. Nam lorem tortor, viverra gravida, egestas id, pellentesque in, mi. Maecenas sodales pede eu massa. Fusce lacinia orci at nisi. <span class="note">Suspendisse at nisi nec diam pretium tincidunt.</span></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_8 (Copy).jpg</thumbnail>
+		<filename>gallery_8.jpg</filename>
+		<title>Apple Orange 08</title>
+		<description><![CDATA[<p><span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor. <a href="http://www.flashmo.com" target="_blank">Integer vel sapien quis</a> risus egestas suscipit. Nam lorem tortor, viverra gravida, egestas id, pellentesque in, mi. <span class="note">Suspendisse at nisi nec diam pretium tincidunt.</span></p>]]></description>
+	</photo>
+		<photo>
+		<thumbnail>gallery_9 (Copy).jpg</thumbnail>
+		<filename>gallery_9.jpg</filename>
+		<title>Apple Orange 09</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com" target="_parent">Lorem ipsum dolor sit amet</a>, consectetur adipiscing elit. <span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor.</p><p><span class="subtitle">Pellentesque elementum enim a augue</span></p><p>Donec in nisi. Etiam sit amet turpis. Duis nulla diam, posuere ac, varius id, ullamcorper sit amet, libero.</p><p><span class="note">This text is dynamically loaded from the external XML file. This textfield supports HTML and CSS.</span></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_10 (Copy).jpg</thumbnail>
+		<filename>gallery_10.jpg</filename>
+		<title>Apple Orange 10</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com/donate" target="_blank">Fusce quis diam sit</a> amet tortor luctus pellentesque. Donec accumsan urna non elit tristique mattis. <b>Vivamus fermentum</b> orci viverra nisl. In nec magna id ipsum aliquam dictum. <span class="note">Donec euismod enim et risus.</span></p>]]></description>
+	</photo>
+	
+	
+	
+	<photo>
+		<thumbnail>gallery_11 (Copy).jpg</thumbnail>
+		<filename>gallery_11.jpg</filename>
+		<title>Apple Orange 11</title>
+		<description><![CDATA[<p>In velit urna, <u>convallis id</u>, pharetra in, iaculis sit amet, mi. Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. Etiam et neque. Donec dapibus viverra est. <a href="http://www.koflash.com" target="_blank">Flash Web Gallery</a></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_12 (Copy).jpg</thumbnail>
+		<filename>gallery_12.jpg</filename>
+		<title>Apple Orange 12</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com/store" target="_blank">Mauris vestibulum felis</a> eget tortor. Praesent mattis varius quam. Vestibulum ullamcorper ipsum nec augue. Vestibulum auctor odio eget ante.</p> <p>Nunc commodo, magna pharetra semper vehicula, dui ligula feugiat elit, et euismod nunc orci ut libero. Etiam sodales massa vel metus. <span class="note">Mauris et elit quis mauris aliquet luctus.</span></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_13 (Copy).jpg</thumbnail>
+		<filename>gallery_13.jpg</filename>
+		<title>Apple Orange 13</title>
+		<description><![CDATA[<p>Nunc aliquam, dolor vitae sollicitudin lacinia, nibh orci sagittis diam, dignissim sodales dui erat nec eros. Fusce quis enim. <a href="http://www.flashmo.com" target="_parent">Aenean eleifend</a>, neque hendrerit elementum sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus.</p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_14 (Copy).jpg</thumbnail>
+		<filename>gallery_14.jpg</filename>
+		<title>Apple Orange 14</title>
+		<description><![CDATA[<p>In velit urna, convallis id, pharetra in, iaculis sit amet, mi. Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. Etiam et neque. <a href="http://www.flashmo.com" target="_parent">Donec dapibus</a> viverra est.</p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_15 (Copy).jpg</thumbnail>
+		<filename>gallery_15.jpg</filename>
+		<title>Apple Orange 15</title>
+		<description><![CDATA[<p><a href="http://www.koflash.com" target="_blank">Flash Web Gallery</a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. <span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor. <a href="http://www.flashmo.com" target="_parent">Integer vel sapien quis</a> risus egestas suscipit. Nam lorem tortor, viverra gravida, egestas id, pellentesque in, mi. Maecenas sodales pede eu massa. Fusce lacinia orci at nisi. <span class="note">Suspendisse at nisi nec diam pretium tincidunt.</span></p>]]></description>
+	</photo>
+	
+	
+	
+	<photo>
+		<thumbnail>gallery_16 (Copy).jpg</thumbnail>
+		<filename>gallery_16.jpg</filename>
+		<title>Apple Orange 16</title>
+		<description><![CDATA[<p><span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor. <a href="http://www.flashmo.com" target="_blank">Integer vel sapien quis</a> risus egestas suscipit. Nam lorem tortor, viverra gravida, egestas id, pellentesque in, mi. <span class="note">Suspendisse at nisi nec diam pretium tincidunt.</span></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_17 (Copy).jpg</thumbnail>
+		<filename>gallery_17.jpg</filename>
+		<title>Apple Orange 17</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com" target="_parent">Lorem ipsum dolor sit amet</a>, consectetur adipiscing elit. <span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor.</p><p><span class="subtitle">Pellentesque elementum enim a augue</span></p><p>Donec in nisi. Etiam sit amet turpis. Duis nulla diam, posuere ac, varius id, ullamcorper sit amet, libero.</p><p><span class="note">This text is dynamically loaded from the external XML file. This textfield supports HTML and CSS.</span></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_18 (Copy).jpg</thumbnail>
+		<filename>gallery_18.jpg</filename>
+		<title>Apple Orange 18</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com/donate" target="_blank">Fusce quis diam sit</a> amet tortor luctus pellentesque. Donec accumsan urna non elit tristique mattis. <b>Vivamus fermentum</b> orci viverra nisl. In nec magna id ipsum aliquam dictum. <span class="note">Donec euismod enim et risus.</span></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_19 (Copy).jpg</thumbnail>
+		<filename>gallery_19.jpg</filename>
+		<title>Apple Orange 19</title>
+		<description><![CDATA[<p>In velit urna, <u>convallis id</u>, pharetra in, iaculis sit amet, mi. Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. Etiam et neque. Donec dapibus viverra est. <a href="http://www.koflash.com" target="_blank">Flash Web Gallery</a></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_20 (Copy).jpg</thumbnail>
+		<filename>gallery_20.jpg</filename>
+		<title>Apple Orange 20</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com/store" target="_blank">Mauris vestibulum felis</a> eget tortor. Praesent mattis varius quam. Vestibulum ullamcorper ipsum nec augue. Vestibulum auctor odio eget ante.</p> <p>Nunc commodo, magna pharetra semper vehicula, dui ligula feugiat elit, et euismod nunc orci ut libero. Etiam sodales massa vel metus. <span class="note">Mauris et elit quis mauris aliquet luctus.</span></p>]]></description>
+	</photo>
+	
+	
+	
+	<photo>
+		<thumbnail>gallery_21 (Copy).jpg</thumbnail>
+		<filename>gallery_21.jpg</filename>
+		<title>Apple Orange 21</title>
+		<description><![CDATA[<p>Nunc aliquam, dolor vitae sollicitudin lacinia, nibh orci sagittis diam, dignissim sodales dui erat nec eros. Fusce quis enim. <a href="http://www.flashmo.com" target="_parent">Aenean eleifend</a>, neque hendrerit elementum sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus.</p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_22 (Copy).jpg</thumbnail>
+		<filename>gallery_22.jpg</filename>
+		<title>Apple Orange 22</title>
+		<description><![CDATA[<p>In velit urna, convallis id, pharetra in, iaculis sit amet, mi. Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. Etiam et neque. <a href="http://www.flashmo.com" target="_parent">Donec dapibus</a> viverra est.</p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_23 (Copy).jpg</thumbnail>
+		<filename>gallery_23.jpg</filename>
+		<title>Apple Orange 23</title>
+		<description><![CDATA[<p><a href="http://www.koflash.com" target="_blank">Flash Web Gallery</a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. <span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor. <a href="http://www.flashmo.com" target="_parent">Integer vel sapien quis</a> risus egestas suscipit. Nam lorem tortor, viverra gravida, egestas id, pellentesque in, mi. Maecenas sodales pede eu massa. Fusce lacinia orci at nisi. <span class="note">Suspendisse at nisi nec diam pretium tincidunt.</span></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_24 (Copy).jpg</thumbnail>
+		<filename>gallery_24.jpg</filename>
+		<title>Apple Orange 24</title>
+		<description><![CDATA[<p><span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor. <a href="http://www.flashmo.com" target="_blank">Integer vel sapien quis</a> risus egestas suscipit. Nam lorem tortor, viverra gravida, egestas id, pellentesque in, mi. <span class="note">Suspendisse at nisi nec diam pretium tincidunt.</span></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_25 (Copy).jpg</thumbnail>
+		<filename>gallery_25.jpg</filename>
+		<title>Apple Orange 25</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com" target="_parent">Lorem ipsum dolor sit amet</a>, consectetur adipiscing elit. <span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor.</p><p><span class="subtitle">Pellentesque elementum enim a augue</span></p><p>Donec in nisi. Etiam sit amet turpis. Duis nulla diam, posuere ac, varius id, ullamcorper sit amet, libero.</p><p><span class="note">This text is dynamically loaded from the external XML file. This textfield supports HTML and CSS.</span></p>]]></description>
+	</photo>
+	
+	
+	
+	<photo>
+		<thumbnail>gallery_26 (Copy).jpg</thumbnail>
+		<filename>gallery_26.jpg</filename>
+		<title>Apple Orange 26</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com/donate" target="_blank">Fusce quis diam sit</a> amet tortor luctus pellentesque. Donec accumsan urna non elit tristique mattis. <b>Vivamus fermentum</b> orci viverra nisl. In nec magna id ipsum aliquam dictum. <span class="note">Donec euismod enim et risus.</span></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_27 (Copy).jpg</thumbnail>
+		<filename>gallery_27.jpg</filename>
+		<title>Apple Orange 27</title>
+		<description><![CDATA[<p>In velit urna, <u>convallis id</u>, pharetra in, iaculis sit amet, mi. Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. Etiam et neque. Donec dapibus viverra est. <a href="http://www.koflash.com" target="_blank">Flash Web Gallery</a></p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>gallery_28 (Copy).jpg</thumbnail>
+		<filename>gallery_28.jpg</filename>
+		<title>Apple Orange 28</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com/store" target="_blank">Mauris vestibulum felis</a> eget tortor. Praesent mattis varius quam. Vestibulum ullamcorper ipsum nec augue. Vestibulum auctor odio eget ante.</p> <p>Nunc commodo, magna pharetra semper vehicula, dui ligula feugiat elit, et euismod nunc orci ut libero. Etiam sodales massa vel metus. <span class="note">Mauris et elit quis mauris aliquet luctus.</span></p>]]></description>
+	</photo>
+	
+	
+</photos>

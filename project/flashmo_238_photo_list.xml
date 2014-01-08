@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+	
+	<config
+		folder="photos/"
+		enable_fullscreen="true"
+		galaxy_background="true"	
+		no_of_rings="2.5"
+		radius="300"
+		vertical_spacing="30"
+		default_zoom="10"			
+		show_tooltip="true"
+		thumbnail_width="100"
+		thumbnail_height="100"
+		thumbnail_back_alpha="0.3"
+		photo_border_size="10"
+		photo_border_color="#FFFFFF"
+		close_button="true"
+		previous_button="true"
+		next_button="true"
+		description="true"
+		description_bg_color="#000000"
+		description_bg_alpha="0.6"
+		css_file="flashmo_210_style.css"
+		tween_duration="0.6">
+	</config>
+	
+<photo>
+
+		<thumbnail>classical vocal solo.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Classical Vocal Solo</tooltip>
+		<description><![CDATA[<p class="subtitle">Classical Vocal solo</p><p> 
+-Only one entry per institution is allowed. Duration of performance – 10 minutes.
+-The time for setting up the Stage / Instruments is 5 minutes.
+-Maximum number of accompanists allowed is 2. 
+-The piece can be presented in either Hindustani or Carnatic style.
+-Film songs are not allowed under this piece.
+-Sufficient thought and care must be exercised in the choice of raga and composition. 
+-Judgment will be based on qualities like taal, raga, selection of composition and general impression.
+</p><p><span class="note">This textfield supports HTML and CSS.</span></p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>classical instrumental percussion 2.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Classical Instrumental(Percussion)</tooltip>
+		<description><![CDATA[<p class="subtitle">Classical Instrumental solo: (Percussion)</p>
+-Only one entry per institution is allowed. Duration of performance – 10 minutes.
+-The time for setting up the Stage / Instruments is 5 minutes
+-Maximum number of accompanists allowed is 2. 
+-Participants must bring their own instruments. 
+- The piece can be presented in either Hindustani or Carnatic style. 
+-Judgment will be based on qualities like taal, raga, selection of composition and general impression
+- Item can be presented in either Hindustani or Carnatic style.
+-Judgment will be based on qualities like taal, selection of raga, composition and general impression.
+
+<p><span class="note">This text is dynamically loaded from the external XML file. This textfield supports HTML and CSS.</span></p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>classical instrumental non percussion.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Classical Instrumental (non-percussion)</tooltip>
+		<description><![CDATA[<p class="subtitle">Classical Instrumental solo: (Non-Percussion)</p><p>
+-Only one entry per institution is allowed. Duration of performance – 10 minutes. 
+-The time for setting up the Stage / Instruments is 5 minutes 
+-Maximum number of accompanists allowed is 2. 
+- Participants must bring their own instruments. Casio will not be allowed. 
+-Instruments of western origin adapted to the India Raga system are allowed. 
+-The piece can be presented in either Hindustani or Carnatic style. 
+-Judgment will be based on qualities like swara, taal, raga, selection of composition and general impression. </p>]]></description>
+	</photo>
+	
+		<photo>
+		<thumbnail>indian light vocal.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Light Vocal(indian) </tooltip>
+		<description><![CDATA[<p class="subtitle">Light Vocal: (Indian)</p><p>
+
+-Only one entry per institution is allowed. 
+-The time for setting up the Stage / Instruments is 2 minutes 
+-The number of accompanists allowed should not be more than 2. 
+-Duration of the song should be between 4 to 6 minutes. 
+-Only non-film songs / geet/ ghazal / bhajan/ shabad and abhanges can be presented. 
+-Judgment will be made on qualities like swara, taal, raga, selection of composition and general impression. 
+</p>]]></description>
+	</photo>
+	<photo>
+		<thumbnail>s_photo_014.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Western Vocal Solo</tooltip>
+		<description><![CDATA[<p class="subtitle">Western Vocal solo:</p><p>
+-Only one entry per institution is allowed. 
+-The time for setting up the Stage / Instruments is 2 minutes 
+-The number of accompanists allowed should not be more than 2. 
+-Duration of the song should be between 4 to 6 minutes.
+ -Language of the song should only be English. 
+-Judgment will be made on the qualities like selection of composition, rhythm, coordination and general impression. </p>]]></description>
+	</photo>
+
+	<photo>
+		<thumbnail>indian group song.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Indian Group Song</tooltip>
+		<description><![CDATA[<p class="subtitle">Group song (Indian)</p><p>
+-Only one entry per institution is allowed. 
+-Each team has to present two songs, one patriotic and another will be a folk song.
+-Maximum of 6 singers will be allowed in a group and number of accompanists playing instruments should be 3. 
+-The group songs should be taken from Indian songs which can be in any regional language. 
+-No film song should be presented as group song. 
+-Maximum time allowed for the group song is 10 minutes, which does not include setting time. The setting time for a group should not exceed 4 minutes. 
+-Judging of the pieces will be on the basis of quality of singing only and not on make-up, costumes and actions of  the team.</p>]]></description>
+	</photo>
+
+	<photo>
+		<thumbnail>western group.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Western Group Song</tooltip>
+		<description><![CDATA[<p class="subtitle">Group Songs(Western)</p><p>
+-Only one entry per institution is allowed. 
+-Maximum 6 singers will be allowed in a group and number of accompanists playing instruments should be 3. 
+-The group songs should be taken from English language. 
+-Maximum time allowed for the group song is 10 minutes, which does not include setting time. The setting time for a group should not exceed 5 minutes. 
+-Judging of the pieces will be on the basis of quality of singing only and not on make-up, costumes and action of the team. </p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>folk orchestra.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Folk Orchestra</tooltip>
+		<description><![CDATA[<p class="subtitle">Folk Orchestra: </p><p>
+-Only one entry per institution is allowed. 
+-The team should consist of up to 12 participants. 
+-The group can consist of all boys or all girls or combined. 
+-The duration of the performance will be a minimum of 7 minute and a maximum of 10 minutes. 
+-  This does not include setting time which should not be more than 5 minutes. 
+-Up to 3 professional accompanists are allowed who should be in different dress from the student participants so    that they could be easily identified. 
+-The professional accompanists should sit / stand separately from the participants and should not lead the team.  
+-  The team may present preferably those folk tunes which are recognized as folk tunes of the state to which the  institution belongs. 
+New amendment 
+I.  Vocal singing is not allowed, however teams may use vocal punctuations as a chorus. 
+II. Use of musical instruments backed up by electrical power/amplifier etc., is not allow
+</p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>folk dance.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Folk Dance</tooltip>
+		<description><![CDATA[<p class="subtitle">Folk/Tribal Dance</p><p>
+-Only one entry per institution is allowed. 
+-Maximum 10 participants allowed per team. The team may consist of all boys, all girls or combined. 
+-The number of accompanists permissible is 5. 
+-The dance can be either primitive or a folk dance (Indian Style) but not a classical one. 
+-Duration of dance should not be more than 10 minutes. 
+-Three copies of a brief note giving the theme and the text of song if any, (in English language) is to be submitted  along with the entry form at the time of registration. 
+-The participating team will be responsible for removal of their sets / properties, etc. immediately after the  completion of their performance. 
+-Judgment will be made on the basis of rhythm, formation, expression, costumes, make-up, sets and on overall effect. 
+-Time for sets/ instruments setting is maximum 5 minutes. 
+New amendment 
+I.Folk dance: pre recorded CD’s / cassettes may be used.
+</p>]]></description>
+	</photo>
+	
+		<photo>
+		<thumbnail>Indian classical dance.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Classical Dance</tooltip>
+		<description><![CDATA[<p class="subtitle">Classical Dance (Indian)</p><p>
+- Only one entry per institution is allowed. 
+-The classical dance can be from any of the approved schools of dance such as Kathak, Kathakali, Bharat Natyam,  Xatriya, Manipuri, Kuchipudi, Mohiniattam, Odissi, etc. 
+-Participant will be allowed up to 15 minutes including time for preparation. Maximum three accompanists are permissible. 
+-Judgment will be based on qualities like taal, technique, rhythm, abhinaya or expression, costumes, footwork and general impression etc. 
+-Three copies of a brief note on the description of dance story involved in it, if any, and of the accompanying song with its meaning English must be submitted at the time of registration. 
+New amendment 
+I. Classical dance solo: pre recorded CD’s/ cassettes may be used.</p>]]></description>
+	</photo>
+
+	<photo>
+		<thumbnail>quiz.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Quiz</tooltip>
+		<description><![CDATA[<p class="subtitle">Quiz</p><p>
+-Each Institution can send a team of 3 students. 
+-There will be a written preliminary round and teams will be selected for the final.
+-Finals will be oral with audio- visual questions. 
+-The specific rules regarding the evaluation procedure, the time to reply to a particular question and the type of round will be given before the actual start of the competition.</p>]]></description>
+	</photo>
+	
+		<photo>
+		<thumbnail>elcoution.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Elocution</tooltip>
+		<description><![CDATA[<p class="subtitle">Elocution</p><p>	
+-Each institution will be represented by only one speaker. 
+-Topic of the Elocution will be announced at the Team Manager’s meeting. 
+-Medium of expression will be English. 
+-Each speaker will be allowed to speak for a maximum of 5 minutes. 
+-Self written pieces are allowed.
+-The speech should be prose or poetry and not song. 
+-The sequence of speakers will be decided by a draw of lots. </p>]]></description>
+	</photo>
+	
+	
+	<photo>
+		<thumbnail>debate.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Debate</tooltip>
+		<description><![CDATA[<p class="subtitle">Debate</p><p>
+  Shall be held in 2 stages: Prelims & Finals. 
+Prelims    
+- Each institution will be represented by the two participants; one will speak FOR, while another will speak AGAINST  the motion. 
+-Medium of the debate will be English.    - Topics of the Debate will be announced 24 hours in advance. 
+- Each speaker will be allowed to speak for maximum 5 minutes. 
+Finals 
+- Each shortlisted institution will be represented by the two participants; one will speak FOR, while another will speak AGAINST the motion. 
+-Medium of the debate will be English.
+-Each speaker will be allowed to speak for maximum 5 minutes.
+</p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>skit.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Skit</tooltip>
+		<description><![CDATA[<p class="subtitle">Skit</p><p>
+- Only one team per institution will be allowed. 
+-Maximum number of participants allowed is 6. 
+-Maximum time allotted for each team is 10 minutes. 
+-Use of make-up, drapery and background music is allowed. No personal remarks, aspersions, character    assassination, etc, is allowed. 
+-Participating team should submit 3 copies of the synopsis of the theme of the skit along with language of presentation (English / Hindi) on the day of the registration. 
+-The presentation will be judged basically on the qualities like theme, work on acting, stage craft, design and general impression.
+- Profanity or bitter insinuations in presentation should be avoided. Only innocent satire or humour is expected. </p>]]></description>
+	</photo>
+	
+		<photo>
+		<thumbnail>Mime.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Mime</tooltip>
+		<description><![CDATA[<p class="subtitle">Mime</p><p>
+-Only one entry per institution will be entertained. 
+-Maximum number of participants allowed is 6.
+-Judgement will be based on the qualities like idea, creativity of presentation, use of make-up, music and general impression. 
+-Maximum Duration of performance should be 5 minutes.</p>]]></description>
+	</photo>
+
+	<photo>
+		<thumbnail>theater-mimicry.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Mimicry</tooltip>
+		<description><![CDATA[<p class="subtitle">Mimicry</p><p>
+-Each participant will be given 5 minutes. 
+-Participants may mimic sound of machines and speeches of will know persons etc. including film personalities. 
+-Only one entry per institute will be entertained. 
+-Marking will be based on: 	 
+	(i)   Skill imitating    	 
+	(ii)  Variety of sound and voices imitate 	 
+	(iii)  Presentation
+</p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>on spot painting.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>On Spot Painting</tooltip>
+		<description><![CDATA[<p class="subtitle">On the spot painting:</p><p>
+-Each institution will be represented by one participant only. 
+-The event will be conducted on the spot and participants will be requested to paint on the subject given by the co-ordinators of the competition. 
+-Duration will not be more than 2 hours 30 minutes. 
+-Size of the painting will be half imperial size drawing paper i.e. 22”x15“.. 
+-Painting can be done in oil, water, poster or pastel colours. 
+-Candidates should bring their own material like brushes, paints etc. only the paper / sheet will be provided. </p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>Collage.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Collage</tooltip>
+		<description><![CDATA[<p class="subtitle">Collage</p><p>
+-Each institution will be represented by one participant only. 
+-The event will be conducted on the spot on the given topic / subject, sheet size 22”x15“. 
+-Duration will not be more than 2 hours 30 minutes. 
+-Participants should bring their own scissors, pasting and other material required for the contest. 
+-Collage has to be prepared from old magazines. The drawing paper will be provided. </p>]]></description>
+	</photo>
+	
+<photo>
+		<thumbnail>poster making.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Poster Making</tooltip>
+		<description><![CDATA[<p class="subtitle">Poster Making</p><p>
+-Each institution will be represented by one participant only. 
+-Event will be conducted on the spot and the participants will be requested to make posters on the subject / topic / theme given by the In-charge(s) of the competition.
+-Duration will not be more than 2 hours 30 minutes. 
+-Participants should bring their own material. Only the drawing paper / sheet 22” x 15” will be provided. </p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>clay modelling.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Clay Modelling</tooltip>
+		<description><![CDATA[<p class="subtitle">Clay modelling</p><p>
+-Each institution will be represented by one participant only. 
+-The event will be conducted on the spot 
+-Duration will not be more than 2 hours 30 minutes. 
+-Topics / size and other specific rules will be announced on the spot. 
+-Clay will be provided.
+</p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>cartooning.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Cartooning</tooltip>
+		<description><![CDATA[<p class="subtitle">Cartooning</p><p>
+-Each institution will be represented by one participant only. 
+-The event will be conducted on the spot on the given subject / idea. 
+-Duration will not be more than 2 hours 30 minutes. 
+-Participants should bring their own material. Only the Drawing paper 22” x 15” will be provided.
+</p>]]></description>
+	</photo>
+
+	
+	<photo>
+		<thumbnail>rangoli.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Rangoli</tooltip>
+		<description><![CDATA[<p class="subtitle">Rangoli</p><p>
+-Each institution will be represented by one participant only. 
+-Duration will not be more than 2 hours 30 minutes. 
+-Participants should bring their own material. This art is known differently in various regions as Mandna, Alpana, Alekhan , Kolam, Rangoli, etc.  For this, the medium and form of expression can be free hand, pictorial and descriptive. Only one medium should be used 
+– Poster Colours or Petals or Saw–dust or Pulses or Rice without pasting. 
+-The participants will have to prepare the rangoli within the space provided.</p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>on spot photography.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip> Spot Photography</tooltip>
+		<description><![CDATA[<p class="subtitle">Spot Photography</p><p>
+-Each institution will be represented by one participant only. 
+-The participant has to bring his / her own digital camera of not more than 12 mega pixels. 
+-The digital camera should have a memory card which will be formatted by the judges before the commencement  of the contest. 
+-The time will be 2 hours 30 minutes. -The participant has to capture 5 photographs on the theme announced on the spot by the judges. 
+-No mixing, matching or morphing of photographs will be permitted. -Software such as Photoshop etc. for enhancing images are not permitted. 
+-The organizers will have all rights for the use of these pictures as and when they deem fit. 
+-Digital images are evaluated on the basis of    		
+	(i) IMPACT   		
+	(ii) COMPOSITION    		
+	(iii) TECHNICAL QUALITY   		
+	(iv) SUITABILITY for the specific theme. 
+-Additional instructions will be announced on the spot. </p>]]></description>
+	</photo>
+	
+<photo>
+		<thumbnail>theater-one act play.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>One Act Play</tooltip>
+		<description><![CDATA[<p class="subtitle">One Act Play</p><p>
+-Only one entry shall be accepted from each institution. 
+-The duration of the play should not exceed 30 minutes. 
+-Time will be counted as soon as the signal is given to start the play or to start giving the introduction, whichever is earlier. Empty stage to empty stage should be followed strictly. For stage setting and removal of set and properties, up to 10 minutes will be given after taking charge of the stage. 
+-The number of participants should not exceed 9 and the maximum number of accompanists should not exceed 3. The participating team shall bring their own set / stage paraphernalia, make up materials, etc., light and general paraphernalia such as ordinary furniture may be provided on advance information.  
+-Participants may speak in Hindi, English or any regional language of India. In case the language is regional one,   the synopsis of the play with translation in English must be submitted to the In-charge(s) of the competition on the day of registration. 
+-The participating team must report to the In-Charge(s) of the competition at least two hours before the presentation of the play. 
+-Judgment will be based on the qualities of the play like theme, work on acting, stage craft, design and general impression, etc. 
+-Decision of the panel of judges will be final and binding upon all. 
+-Accompanists will either speak from the background or will play musical instruments for background music. They are required to appear on the stage.-Accompanists shall either speak from the background or will play upon musical instruments for background music. They shall not appear on stage.
+</p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>theater-mimicry.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Step Up</tooltip>
+		<description><![CDATA[<p class="subtitle">Step Up</p><p>
+-Number of entries allowed per college will be announced on the spot. 
+- It is a solo event. 
+-Western style of dance like Hip Hop, B-boying , Break dance, Freestyle, Lyrical Hip Hop, Popping & Locking, etc.
+-First round of participants will have to dance for their own music, Time limit - 1 minute+30 seconds. 
+-The second round will be a knock out round, the rules will be announced on the spot. 
+-No profanity is to be displayed, or else it will lead to immediate disqualification.</p>]]></description>
+	</photo>
+
+	<photo>
+		<thumbnail>on spot painting.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Western and Contemporary Group Dance</tooltip>
+		<description><![CDATA[<p class="subtitle">Western and Contemporary Group Dance</p><p>
+-One team per college allowed 
+-Time limit – 8 minutes + 2 minutes. 
+-A minimum of 4 dancers to a maximum of 10 dancers are allowed in a team. 
+-Songs should be provided on a CD only, the CD should contain only songs required for that performance. 
+-Props are allowed (use of fire or other explosives are strictly not allowed). 
+-Same person cannot dance in more than one dance of the same category. 
+-At no point of the sequence should the stage be left completely empty. 
+-Teams will be judged in the basis of choreography, costumes and overall presentations. 
+-The CD should be submitted in the morning on the day of the event. 
+-No profanity is to be displayed.6. Props are allowed (use of fire or other explosives are strictly not allowed).
+</p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>Collage.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Short films</tooltip>
+		<description><![CDATA[<p class="subtitle">Short films</p><p>
+-No of entries per college to be decided on spot 
+-Should have students of their respective college only (EXCEPTION: only in case of child artists and aged persons). 
+-Time limit: 10 + 5 minutes. - Cast & Crew may or may not belong to the contingent of 45 from the participating institution. 
+-Any editing software can be used. 
+-Post production to be done by students. 
+-Movies to be submitted in a CD or a DVD. 
+-Undertakings to be sent by each team. 
+-Names, phones numbers and USN of all people participating in the movie, to be submitted on a sheet while submitting the movies. 
+-Only Hindi / Kannada and English languages allowed. All other languages should have english subtitles.  </p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>poster making.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Quiz (SPENT)</tooltip>
+		<description><![CDATA[<p class="subtitle">Quiz (SPENT)</p><p>
+-One team per college 
+-Teams of 3. 
+-Written prelims.
+-Rules for finals will be announced on the spot</p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>clay modelling.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Jam (English)</tooltip>
+		<description><![CDATA[<p class="subtitle">Jam (English)</p><p>
+-Multiple entries per college are allowed. 
+-Medium of expression is English. 
+-No grammatical errors.
+-No hesitation. 
+-No late/ early start . 
+-No speech defects. 
+-No repetition. 
+-No deviation from the subject. 
+-Should not “beat around the bush”. 
+-Scoring and any special rules to be announced on the spot. 
+-Decision of the Jam Master is final .</p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>cartooning.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Jam (Kannada)</tooltip>
+		<description><![CDATA[<p class="subtitle">Jam (Kannada)</p><p>
+-Multiple entries per college allowed.
+- The participant will be asked to speak on any topic for 1minute. The participant should start talking as soon as the topic is given. 
+- Based on the response given by the participants to the topic, they will be short listed to the next round. 
+-Medium of expression is Kannada. 
+-No grammatical errors. 
+-No hesitation. 
+-No late/ early start . 
+-No speech defects. 
+-No repetition. 
+-No deviation from the subject. 
+-Should not “beat around the bush”. 
+-Scoring and any special rule will be announced on the spot. 
+-Decision of the JAM master is final.</p>]]></description>
+	</photo>
+
+	<photo>
+		<thumbnail>rangoli.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Dumb Charades</tooltip>
+		<description><![CDATA[<p class="subtitle">Dumb Charades</p><p>
+- The number of teams from each institution will be announced at the time of registration. 
+-Team of 3.  
+-Standard DC rules apply (clarification on the spot). 
+-No splitting. 
+-No sounds like. (Eg: Jeffrey Archer, you cannot mime archer) 
+-No pointing. 
+-No objectification of personalities.</p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>on spot photography.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Personality</tooltip>
+		<description><![CDATA[<p class="subtitle">Personality</p><p>
+Prelims 
+-The questionnaire is to be collected a day before the event is scheduled. At 9 am from the registration desk. 
+-The form has to be submitted by 6:00 pm, on the day before the event is scheduled. 
+-You have to be creative, humorous and make sense. 
+-No profanity is allowed.  
+Finals 
+-Finalists will be announced on the day of the event at 9 am. 
+-All rounds will be announced by the event co-ordinator during the course of the finals. 
+-Rules for the respective rounds will be as per the discretion of the judges. </p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_013.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Cooking</tooltip>
+		<description><![CDATA[<p class="subtitle">Cooking</p><p>
+-Number of entries per college allowed will be decided on spot. 
+-Time limit : 1 hour. 
+-Team of 2. 
+-Use of fire or any electrical appliance is not permitted. 
+-Only raw materials must be used. The ingredients should not contain cooked food of any kind. 
+-Dishes must be purely vegetarian (Eggs not allowed). 
+-Any ingredients which are alcohol based are strictly prohibited. 
+-There has to be 3 items (one desert/ refreshing drink, one main course and one starter). 		</p>]]></description>
+	</photo>
+	
+<photo>
+		<thumbnail>rangoli.jpg</thumbnail>
+		<filename>bg.jpg</filename>
+		<tooltip>Rangoli</tooltip>
+		<description><![CDATA[<p class="subtitle">Rangoli:</p><p>
+-Each institution will be represented by one participant only.
+-Duration will not be more than 2 hours 30 minutes. 
+-Participants should bring their own material. This art is known differently in various regions as Mandna, Alpana,   Alekhan , Kolam, Rangoli, etc.  For this, the medium and form of expression can be free hand, pictorial and descriptive. Only one medium should be used 
+– Poster Colours or Petals or Saw–dust or Pulses or Rice without pasting. 
+-The participants will have to prepare the rangoli within the space provided. 
+</p>]]></description>
+	</photo>
+</photos>

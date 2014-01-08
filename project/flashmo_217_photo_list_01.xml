@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+
+	<photo>
+		<filename>animals_400x260_01.jpg</filename>
+		<title>Animals - Title 01</title>
+	
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_02.jpg</filename>
+		<title>Animals - Title 02</title>
+		
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_03.jpg</filename>
+		<title>Animals - Title 03</title>
+		
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_04.jpg</filename>
+		<title>Animals - Title 04</title>
+		
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_05.jpg</filename>
+		<title>Animals - Title 05</title>
+		
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_06.jpg</filename>
+		<title>Animals - Title 06</title>
+	
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_07.jpg</filename>
+		<title>Animals - Title 07</title>
+	
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_08.jpg</filename>
+		<title>Animals - Title 08</title>
+
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_09.jpg</filename>
+		<title>Animals - Title 09</title>
+
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_02.jpg</filename>
+		<title>Animals - Title 10</title>
+
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_04.jpg</filename>
+		<title>Animals - Title 11</title>
+	
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_06.jpg</filename>
+		<title>Animals - Title 12</title>
+	
+	</photo>
+	
+	<photo>
+		<filename>animals_400x260_08.jpg</filename>
+		<title>Animals - Title 13</title>
+	
+	</photo>
+	
+</photos>
